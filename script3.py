@@ -1,4 +1,4 @@
-import script2 as iugu_api
+#import script2 as iugu_api
 
 #print(iugu_api.payment_token().text)
 
